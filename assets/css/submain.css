@@ -1,0 +1,15 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.logo{
+	background: url(../img/logo.png) no-repeat;
+	display: block;
+	height: 82px;
+	width: 206px;	
+	}
+#sidebar {
+		overflow-y: hidden;
+	}
+.floatR{
+	float: right;	
+	}		
